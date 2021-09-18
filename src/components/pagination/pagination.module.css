@@ -1,0 +1,20 @@
+.wrapp{
+    display: flex;
+    justify-content: end;
+    margin-right: 210px;
+    margin-top: 5px;
+}
+
+.wrapp button {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+    text-decoration: none;
+    background-color: white;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.wrapp button:hover {
+    background-color: cornflowerblue;
+}

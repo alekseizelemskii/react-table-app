@@ -16,7 +16,6 @@ export function DataTable() {
 
     useEffect(() => {
         dispatch(getUsers())
-        console.log('reder');
     }, []);
 
 
